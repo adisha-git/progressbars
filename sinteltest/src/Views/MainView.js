@@ -78,7 +78,7 @@ class MainView extends React.Component {
             <div className="mainWrapper">
                 <div className="col-md-8 offset-md-2">
                     <div className="barsWrapper card">
-                        <p className="progressBardHeading">Progress Bars Asdfgd Fgmnk</p>
+                        <p className="progressBardHeading">Progress Bars Singtel Test</p>
                         <div className="proBarsWrapper">
                             {progressBars.map((item, i) =>
                                 <div key={i} className="proBar">
